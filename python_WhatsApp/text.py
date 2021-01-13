@@ -1,3 +1,3 @@
 import pywhatkit
 
-pywhatkit.sendwhatmsg("Phone no","Hello baba, this is a chat bot developed in Python",20,36)
+pywhatkit.sendwhatmsg("+6596230693","Hello baba, this is a chat bot developed in Python",12,39)
