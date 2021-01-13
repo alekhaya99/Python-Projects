@@ -23,7 +23,7 @@ while True:
             cv2.rectangle(frame,(x_pos,y_pos),(x_pos+width,y_pos+height),(0,255,0),3)
             if y_pos<original_y:
                 pyautogui.press('space')
-            
+                                      
             original_y=y_pos
             # print(Area)
             # cv2.drawContours(frame,c,-1,(0,255,0),3)
